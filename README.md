@@ -29,3 +29,5 @@ A simple and user-friendly To-Do application designed to help users organize dai
 
 > _(Add screenshots of your app here)_
 
+<img width="1280" height="1024" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/b54c5ced-f2a1-4a35-b62e-b29314b7924e" />
+
